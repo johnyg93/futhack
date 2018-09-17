@@ -1,0 +1,5 @@
+transfers:
+  check-interval: 9 #time interval between machines status check
+  sid: "c5ea5202-03f4-4d5b-8286-d8c5130a16fb"
+  phishing-token: "170962232613589282"
+  counter: 1517511099841
